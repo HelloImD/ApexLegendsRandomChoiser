@@ -1,6 +1,6 @@
-Apex Legends Random Choisee
+#Apex Legends Random Choisee
 
-One of my friends loves playing Apex Legends. And he doesn’t really like to constantly play for only one hero. That's why I made this application. It allows you to randomly select a hero from among you marked.
+One of my friends loves playing Apex Legends. And he doesnâ€™t really like to constantly play for only one hero. That's why I made this application. It allows you to randomly select a hero from among you marked.
 
 1) In the bin / debug folder you can find the executable file and use it. No additional libraries are needed. Everything is written in C # .No Framework 4.0, IDE - SharpDevelop
 
