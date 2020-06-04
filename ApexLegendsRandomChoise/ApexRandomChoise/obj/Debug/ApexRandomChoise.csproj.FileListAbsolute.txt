@@ -1,0 +1,11 @@
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\obj\Debug\ApexRandomChoise.csprojResolveAssemblyReference.cache
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\obj\Debug\Window1.baml
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\obj\Debug\Window1.g.cs
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\obj\Debug\App.g.cs
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\obj\Debug\ApexRandomChoise_MarkupCompile.cache
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\obj\Debug\ApexRandomChoise.g.resources
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\bin\Debug\ApexRandomChoise.exe.config
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\bin\Debug\ApexRandomChoise.exe
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\bin\Debug\ApexRandomChoise.pdb
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\obj\Debug\ApexRandomChoise.exe
+D:\Other\SLN\ApexRandomChoise\ApexRandomChoise\obj\Debug\ApexRandomChoise.pdb
