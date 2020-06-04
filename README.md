@@ -1,4 +1,4 @@
-#Apex Legends Random Choisee
+# Apex Legends Random Choisee
 
 One of my friends loves playing Apex Legends. And he doesn’t really like to constantly play for only one hero. That's why I made this application. It allows you to randomly select a hero from among you marked.
 
